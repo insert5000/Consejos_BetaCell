@@ -1,0 +1,38 @@
+.colorBtn{
+    background-color: #26bed6;
+    color: #ccc;
+    width: 80%;
+    margin-left: 13%;
+
+}
+
+button {
+    background-color: #26bed6;
+}
+
+body{
+    background-color:  #000f29;
+    color: #ccc;
+}
+.colorBody{
+    background-color: #000f29;
+}
+.border{
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    background-color: #ccc;
+    color: #000f29;
+    padding: 20px;
+}
+
+.border > p{
+    text-align: center;
+}
+
+img{
+    width: 75%;
+    margin-left: 14%;
+    border-radius: 30px;
+    padding: 14px;
+}
+
